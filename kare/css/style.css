@@ -235,7 +235,7 @@ a {
         .header_area .navbar .nav .nav-item .nav-link:after {
           display: none; }
       .header_area .navbar .nav .nav-item:hover .nav-link, .header_area .navbar .nav .nav-item.active .nav-link {
-        color: #ea2c58; }
+        color: #4683ea; }
       .header_area .navbar .nav .nav-item.submenu {
         position: relative; }
         .header_area .navbar .nav .nav-item.submenu ul {
@@ -357,7 +357,7 @@ a {
         margin: auto;
         max-width: 470px; }
       .home_banner_area .banner_inner .banner_content .white_bg_btn {
-        border: 1px solid rgba(221, 221, 221, 0.30196);
+        border: 1px solid #4683ea;
         background: rgba(255, 255, 255, 0.21);
         color: #fff;
         line-height: 50px;
@@ -367,8 +367,8 @@ a {
         font-weight: 500;
         font-size: 14px; }
         .home_banner_area .banner_inner .banner_content .white_bg_btn:hover {
-          background: #ea2c58;
-          border: 1px solid #ea2c58; }
+          background: #4683ea;
+          border: 1px solid #4683ea; }
 
 .banner-area {
   background: url(/home/himanshi/Downloads/New Project.png) center;
@@ -405,13 +405,13 @@ a {
     margin: 15px; } }
 
 .single_donation_box {
-  border: 1px solid #ea2c58;
+  border: 1px solid #4683ea;
   padding: 60px 30px;
   text-align: center;
   max-height: 304px;
   transition: all 300ms linear 0s;
 
-}	
+} 
 
   .single_donation_box img {
     filter: gray;
@@ -558,7 +558,7 @@ a {
 /* Support Campaign Area css
 ============================================================================================ */
 .experience_donation {
-  background: #ea2c58;
+  background: #4683ea;
   text-align: center; }
   .experience_donation h1 {
     color: #ffffff;
@@ -2790,14 +2790,14 @@ h6 {
 ============================================================================================ */
 .main_btn {
   display: inline-block;
-  background: #ea2c58;
+  background: #4683ea;
   padding: 0px 30px;
   color: #fff;
   font-family: "Roboto", sans-serif;
   font-size: 14px;
   font-weight: 500;
   line-height: 48px;
-  border: 1px solid #ea2c58;
+  border: 1px solid #4683ea;
   border-radius: 0px;
   outline: none !important;
   box-shadow: none !important;
@@ -2808,7 +2808,7 @@ h6 {
   text-transform: capitalize; }
   .main_btn:hover {
     background: transparent;
-    color: #ea2c58; }
+    color: #4683ea; }
 
 .main_btn2 {
   display: inline-block;
