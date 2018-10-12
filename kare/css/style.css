@@ -538,7 +538,8 @@ a {
     background: rgba(234, 44, 88, 0.23);
     border-radius: 0px; }
     .support_campaign .campaign_box .progress .progress-bar {
-      background-color: #ea2c58; }
+      background-color: #4683ea; 
+     }
       .support_campaign .campaign_box .progress .progress-bar span {
         position: absolute;
         top: 32%;
@@ -2956,7 +2957,7 @@ h6 {
     background: rgba(255, 255, 255, 0.2);
     top: -4px; }
     .our_major_cause .card .progress .progress-bar {
-      background-color: #ea2c58; }
+      background-color: #4683ea; }
       .our_major_cause .card .progress .progress-bar span {
         position: absolute;
         bottom: -49px;
@@ -3177,7 +3178,7 @@ h6 {
   .single-footer-widget input:focus {
     outline: none; }
 .single-footer-widget .sub-btn {
-  background: #ea2c58;
+  background: #4683ea;
   color: #fff;
   font-weight: 300;
   border-radius: 0;
